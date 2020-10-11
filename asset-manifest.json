@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/themachinefan/react-demo-working/static/css/main.fe25e6c3.chunk.css",
-    "main.js": "/themachinefan/react-demo-working/static/js/main.b71513bc.chunk.js",
-    "main.js.map": "/themachinefan/react-demo-working/static/js/main.b71513bc.chunk.js.map",
-    "runtime-main.js": "/themachinefan/react-demo-working/static/js/runtime-main.f3d10a0e.js",
-    "runtime-main.js.map": "/themachinefan/react-demo-working/static/js/runtime-main.f3d10a0e.js.map",
-    "static/js/2.5ca6c43b.chunk.js": "/themachinefan/react-demo-working/static/js/2.5ca6c43b.chunk.js",
-    "static/js/2.5ca6c43b.chunk.js.map": "/themachinefan/react-demo-working/static/js/2.5ca6c43b.chunk.js.map",
-    "index.html": "/themachinefan/react-demo-working/index.html",
-    "precache-manifest.ec1223f75f7141cea414448abd9e2222.js": "/themachinefan/react-demo-working/precache-manifest.ec1223f75f7141cea414448abd9e2222.js",
-    "service-worker.js": "/themachinefan/react-demo-working/service-worker.js",
-    "static/css/main.fe25e6c3.chunk.css.map": "/themachinefan/react-demo-working/static/css/main.fe25e6c3.chunk.css.map",
-    "static/js/2.5ca6c43b.chunk.js.LICENSE.txt": "/themachinefan/react-demo-working/static/js/2.5ca6c43b.chunk.js.LICENSE.txt"
+    "main.css": "/react-demo-working/static/css/main.fe25e6c3.chunk.css",
+    "main.js": "/react-demo-working/static/js/main.4613915b.chunk.js",
+    "main.js.map": "/react-demo-working/static/js/main.4613915b.chunk.js.map",
+    "runtime-main.js": "/react-demo-working/static/js/runtime-main.6a4a9042.js",
+    "runtime-main.js.map": "/react-demo-working/static/js/runtime-main.6a4a9042.js.map",
+    "static/js/2.5ca6c43b.chunk.js": "/react-demo-working/static/js/2.5ca6c43b.chunk.js",
+    "static/js/2.5ca6c43b.chunk.js.map": "/react-demo-working/static/js/2.5ca6c43b.chunk.js.map",
+    "index.html": "/react-demo-working/index.html",
+    "precache-manifest.bd8fa867f2d5e7ab773b651308d41c4c.js": "/react-demo-working/precache-manifest.bd8fa867f2d5e7ab773b651308d41c4c.js",
+    "service-worker.js": "/react-demo-working/service-worker.js",
+    "static/css/main.fe25e6c3.chunk.css.map": "/react-demo-working/static/css/main.fe25e6c3.chunk.css.map",
+    "static/js/2.5ca6c43b.chunk.js.LICENSE.txt": "/react-demo-working/static/js/2.5ca6c43b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f3d10a0e.js",
+    "static/js/runtime-main.6a4a9042.js",
     "static/js/2.5ca6c43b.chunk.js",
     "static/css/main.fe25e6c3.chunk.css",
-    "static/js/main.b71513bc.chunk.js"
+    "static/js/main.4613915b.chunk.js"
   ]
 }
