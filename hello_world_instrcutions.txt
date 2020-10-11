@@ -1,0 +1,16 @@
+npm i -g create-react-app (to install)
+then 
+create-react-app client
+cd client
+npm start
+open package.json and add this line before dependencies :- 
+"proxy": "http://localhost:3001/",
+
+replace files in app as needed
+
+install what's needed
+
+npm install --save pubnub pubnub-react
+npm install --save shortid
+npm install --save sweetalert2
+npm init -y (!)??????
